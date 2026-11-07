@@ -1,6 +1,6 @@
 # 🛒 Boréal Marché — Product Recommendation Engine
 
-[![Live App](https://img.shields.io/badge/Live_App-Open_Streamlit_App-brightgreen)](https://boreal-marche.onrender.com)
+[🛒 Launch Boréal Marché](https://boreal-marche.onrender.com)
 
 ## 1. Project Overview
 

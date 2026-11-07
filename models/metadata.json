@@ -1,0 +1,18 @@
+{
+    "mining_date": "2026-11-06",
+    "min_support": 0.005,
+    "confidence": 0.5,
+    "lift": "greater than 1.0",
+    "number_of_total_rules": 16808,
+    "num_winter_rules": 2359,
+    "num_spring_rules": 3574,
+    "num_summer_rules": 7878,
+    "num_fall_rules": 2997,
+    "coverage": {
+        "Winter": 0.3776,
+        "Spring": 0.3673,
+        "Summer": 0.3265,
+        "Fall": 0.3673,
+        "Average": 0.3597
+    }
+}

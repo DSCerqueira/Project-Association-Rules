@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib
+mlxtend
+memory_profiler
+

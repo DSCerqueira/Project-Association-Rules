@@ -1,5 +1,7 @@
 # 🛒 Boréal Marché — Product Recommendation Engine
 
+[![Live App](https://img.shields.io/badge/Live_App-Open_Streamlit_App-brightgreen)](https://boreal-marche.onrender.com)
+
 ## 1. Project Overview
 
 **Boréal Marché** is a Quebec online grocery retailer. Today its website shows the same list of “popular products” to every customer. Management wants to replace that list with real recommendations based on what is already in the shopping basket, and it wants to understand why each suggestion is made.

@@ -189,6 +189,8 @@ Rules can also change their **lift values and rankings** across seasons because 
 
 A highly ranked rule in Summer may have a lower ranking in Winter, even when the same association exists in both seasons.
 
+If the website uses year-round association rules in January, the top 5 recommended items may not match the top 5 most strongly associated items for that season. Some rules may even do not exist from the winter results, as customer purchasing behavior can change across seasons. As a result, the recommendations may be less relevant to customers during January.
+
 ## 7. Recommendation Engine
 
 The recommendation engine uses **seasonal association rules** to suggest up to **five products** based on the customer's shopping basket.

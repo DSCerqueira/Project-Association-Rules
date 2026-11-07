@@ -95,7 +95,7 @@ Lower support thresholds generated more rules but significantly increased comput
 
 ### Memory Optimization
 
-To address this limitation, I enabled `low_memory=True`, excluded `Sac réutilisable` (present in approximately 90% of baskets), and divided the transactions into four seasonal datasets.
+To address this limitation, I enabled `low_memory=True`, excluded `Sac réutilisable` (present in approximately 90% of baskets), and divided the transactions into four seasonal datasets. The `low_memory=True` paramter increase the time to generate itemsets but reduce the peak memory comsuption.
 
 ### Final Configuration
 
